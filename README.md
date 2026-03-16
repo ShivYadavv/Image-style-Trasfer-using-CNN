@@ -33,3 +33,6 @@ The model generates an image that preserves the content while applying the artis
 Content Image → CNN → Feature Extraction  
 Style Image → CNN → Style Representation  
 Generated Image → Optimization → Stylized Image
+
+## Conclusion
+Neural Style Transfer demonstrates how CNNs can be used not only for image recognition but also for creative image generation.
